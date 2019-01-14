@@ -5,7 +5,7 @@ package Modelo;
  *
  * @author Cris
  */
-public class Producto {
+public class Productitos{
     
     // Contiene Elementos de mi tabla de bd Producto
     private int id;
