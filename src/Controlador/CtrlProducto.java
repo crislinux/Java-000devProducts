@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Controladors;
+package Controlador;
 
 import Modelo.ConsultasProducto;
 import Modelo.Producto;
